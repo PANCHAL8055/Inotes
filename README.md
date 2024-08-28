@@ -27,5 +27,6 @@ create Notes
 
 show notes
 
-![Uploading inotes-shownotes.png…]()
+![inotes-shownotes](https://github.com/user-attachments/assets/24529711-4473-4322-a517-15dc02bd6c18)
+
 
